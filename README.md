@@ -22,7 +22,32 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+Finding IP address:
+ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
+![Screenshot 2025-03-08 075059](https://github.com/user-attachments/assets/b6dcf133-bd2b-448c-aeea-5e0cddf5ec37)
+History of the website:
+![Screenshot 2025-03-08 075251](https://github.com/user-attachments/assets/fa2ec307-3ca2-4660-a180-dd301e96c2f2)
+![Screenshot 2025-03-08 092142](https://github.com/user-attachments/assets/76c02447-25cf-4e04-a6fa-a160f7871790)
+![Screenshot 2025-03-08 092158](https://github.com/user-attachments/assets/abc5c057-8f26-49e3-8ece-bf763180e4c5)
+#Webserver Fingerprinting:
+##Netcat:
+sudo nc example.com 80
+![image](https://github.com/user-attachments/assets/8845e947-47ce-455c-935e-1ba2d962a0b4)
+##nmap:
+![image](https://github.com/user-attachments/assets/ba6276bf-5d9b-4728-98eb-de23f43ec3d1)
+##Whatweb:
 
+
+#Tracing the Location
+TCP Traceroute:
+sudo traceroute -T www.hostar.com
+
+
+UDP Traceroute:
+sudo traceroute -U www.hotstar.com
+
+ICMP Traceroute:
+sudo traceroute  www.hotstar.com
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
