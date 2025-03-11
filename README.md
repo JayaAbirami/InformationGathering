@@ -25,6 +25,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 Finding IP address:
 
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
+
 ![Screenshot 2025-03-08 075059](https://github.com/user-attachments/assets/b6dcf133-bd2b-448c-aeea-5e0cddf5ec37)
 
 History of the website:
@@ -32,6 +33,7 @@ History of the website:
 ![Screenshot 2025-03-08 075251](https://github.com/user-attachments/assets/fa2ec307-3ca2-4660-a180-dd301e96c2f2)
 
 ![Screenshot 2025-03-08 092142](https://github.com/user-attachments/assets/76c02447-25cf-4e04-a6fa-a160f7871790)
+
 ![Screenshot 2025-03-08 092158](https://github.com/user-attachments/assets/abc5c057-8f26-49e3-8ece-bf763180e4c5)
 
 #Webserver Fingerprinting:
