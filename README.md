@@ -36,18 +36,17 @@ sudo nc example.com 80
 ##nmap:
 ![image](https://github.com/user-attachments/assets/ba6276bf-5d9b-4728-98eb-de23f43ec3d1)
 ##Whatweb:
-
-
+![image](https://github.com/user-attachments/assets/46285ea5-e161-4804-bc54-40dac0007af6)
 #Tracing the Location
 TCP Traceroute:
 sudo traceroute -T www.hostar.com
-
-
+![image](https://github.com/user-attachments/assets/1d238c80-1c1e-4c7a-9bf0-4fc93585d1b4)
 UDP Traceroute:
 sudo traceroute -U www.hotstar.com
-
+![image](https://github.com/user-attachments/assets/a6a8fa07-30bd-427f-a265-4f9fc0124668)
 ICMP Traceroute:
 sudo traceroute  www.hotstar.com
+![image](https://github.com/user-attachments/assets/158d1c0f-4285-4eb2-afd0-e1e6dfbab0d8)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
